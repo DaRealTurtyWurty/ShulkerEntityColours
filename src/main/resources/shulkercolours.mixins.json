@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "dev.turtywurty.shulkercolours.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "shulkercolours.refmap.json",
+  "mixins": [],
+  "client": [
+    "LivingEntityRenderMixin",
+    "ShulkerRendererMixin"
+  ],
+  "server": [],
+  "minVersion": "0.8"
+}
